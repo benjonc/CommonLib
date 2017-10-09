@@ -1,0 +1,6 @@
+D:\CodeSpace\CSharpSpace\CommonLib\CommonLib\bin\Debug\CommonLib.dll
+D:\CodeSpace\CSharpSpace\CommonLib\CommonLib\bin\Debug\CommonLib.pdb
+D:\CodeSpace\CSharpSpace\CommonLib\CommonLib\obj\Debug\CommonLib.csproj.CoreCompileInputs.cache
+D:\CodeSpace\CSharpSpace\CommonLib\CommonLib\obj\Debug\CommonLib.dll
+D:\CodeSpace\CSharpSpace\CommonLib\CommonLib\obj\Debug\CommonLib.pdb
+D:\CodeSpace\CSharpSpace\CommonLib\CommonLib\obj\Debug\CommonLib.csprojResolveAssemblyReference.cache
